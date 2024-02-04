@@ -42,6 +42,6 @@
 
 ## Frontend Angular Guide
 
-### Frontend [IEX Cloud]([https://api.iex.cloud/v1/data/](https://github.com/Abdelrahman1427/RealTimeStockExchangeUI/)).
+### Frontend ([https://api.iex.cloud/v1/data/](https://github.com/Abdelrahman1427/RealTimeStockExchangeUI/)).
 
 
